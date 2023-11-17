@@ -1,7 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from my_package.version import VERSION
+from siphore.version import VERSION
 
 
 def main():
